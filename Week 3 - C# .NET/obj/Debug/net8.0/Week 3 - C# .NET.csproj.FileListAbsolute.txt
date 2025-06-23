@@ -1,0 +1,15 @@
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\bin\Debug\net8.0\Week 3 - C# .NET.exe
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\bin\Debug\net8.0\Week 3 - C# .NET.deps.json
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\bin\Debug\net8.0\Week 3 - C# .NET.runtimeconfig.json
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\bin\Debug\net8.0\Week 3 - C# .NET.dll
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\bin\Debug\net8.0\Week 3 - C# .NET.pdb
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\Week 3 - C# .NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\Week 3 - C# .NET.AssemblyInfoInputs.cache
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\Week 3 - C# .NET.AssemblyInfo.cs
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\Week 3 - C# .NET.csproj.CoreCompileInputs.cache
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\Week 3 - C# .NET.sourcelink.json
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\Week 3 - C# .NET.dll
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\refint\Week 3 - C# .NET.dll
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\Week 3 - C# .NET.pdb
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\Week 3 - C# .NET.genruntimeconfig.cache
+D:\courses\Quadrate-SE-intern\Assignment\Week 3 - C# .NET\obj\Debug\net8.0\ref\Week 3 - C# .NET.dll
